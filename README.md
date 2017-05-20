@@ -9,15 +9,15 @@ https://www.gametabs.net/nier/song-ancients-devola-1
 CAPO ON 3rd FRET !
 
 First part :
-X02213 Am9
-133210 Fm7
-X00230 Dsus2
-022100 E
-X02210 Am
-302210 Am7
-133210 Fm7
-X03230 Dmadd9
-022100 E
+X02213 Am9  
+133210 Fm7  
+X00230 Dsus2  
+022100 E  
+X02210 Am  
+302210 Am7  
+133210 Fm7  
+X03230 Dmadd9  
+022100 E  
 
 Repeat once.
 
