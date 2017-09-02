@@ -1,6 +1,6 @@
 # Guitar Resources
 
-Scales:
+### Scales:
 - (Using the Pentatonic Scale in Major Keys)[https://www.youtube.com/watch?v=vzKPU--iCDg]
 
 <BR>
