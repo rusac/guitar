@@ -3,6 +3,16 @@
 Scales:
 - (Using the Pentatonic Scale in Major Keys)[https://www.youtube.com/watch?v=vzKPU--iCDg]
 
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 
 
 
@@ -10,15 +20,13 @@ Scales:
 
 
 
-### guitar
+### Songs:
 
 Song of the Ancients (Devola) - Nier
 
 https://www.gametabs.net/nier/song-ancients-devola-1
 
-
-
-CAPO ON 3rd FRET !
+CAPO ON 3rd FRET
 
 First part :
 X02213 Am9  
