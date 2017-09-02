@@ -1,4 +1,16 @@
-# guitar
+# Guitar Resources
+
+Scales:
+- (Using the Pentatonic Scale in Major Keys)[https://www.youtube.com/watch?v=vzKPU--iCDg]
+
+
+
+
+
+
+
+
+### guitar
 
 Song of the Ancients (Devola) - Nier
 
