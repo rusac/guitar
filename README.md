@@ -2,9 +2,6 @@
 
 ### Scales:
 - [Using the Pentatonic Scale in Major Keys](https://www.youtube.com/watch?v=vzKPU--iCDg)
-
-<BR>
-<BR>
 <BR>
 ### Blues:
   - [Beginners Blues](http://12bar.de/cms/tutorial/beginners-blues/)
@@ -34,10 +31,8 @@ Chords:
 <BR>
 ![](b7_2.gif)
 <BR>
-
-
-
-
+<BR>
+<BR>
 ### Songs:
 
 Song of the Ancients (Devola) - Nier
