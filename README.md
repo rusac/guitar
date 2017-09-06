@@ -21,18 +21,19 @@ B7 – A7 – E7 – B7
 <BR>
 <BR>
 Chords:
-
-![alt text](https://github.com/rusac/guitar/master/e.gif "Logo Title Text 1")
-<BR>
-![GitHub Logo](/images/logo.png)
-  
+ 
 ![](e.gif)
 <BR>
+![](e7.gif)
 <BR>
+![](a.gif)
 <BR>
-
-
-
+![](a7.gif)
+<BR>
+![](b7_1.gif)
+<BR>
+![](b7_2.gif)
+<BR>
 
 
 
