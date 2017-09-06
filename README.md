@@ -6,9 +6,22 @@
 <BR>
 <BR>
 <BR>
+  ### Blues:
+  - (Beginners Blues)[http://12bar.de/cms/tutorial/beginners-blues/]
+
+Common 12-bar blues progressions:
+
+E7 – E7 – E7 – E7
+A7 – A7 – E7 – E7
+B7 – A7 – E7 – B7
+<BR>
+E7 – A7 – E7 – E7
+A7 – A7 – E7 – E7
+B7 – A7 – E7 – B7
 <BR>
 <BR>
-<BR>
+Chords:
+
 <BR>
 <BR>
 <BR>
