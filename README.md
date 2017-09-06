@@ -24,6 +24,7 @@ Chords:
 
 ![alt text](https://github.com/rusac/guitar/master/e.gif "Logo Title Text 1")
 <BR>
+![GitHub Logo](/images/logo.png)
 <BR>
 <BR>
 <BR>
