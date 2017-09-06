@@ -12,6 +12,7 @@ E7 – E7 – E7 – E7
 A7 – A7 – E7 – E7  
 B7 – A7 – E7 – B7  
 <BR>
+<BR>
 E7 – A7 – E7 – E7  
 A7 – A7 – E7 – E7  
 B7 – A7 – E7 – B7  
