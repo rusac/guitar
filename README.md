@@ -1,13 +1,13 @@
 # Guitar Resources
 
 ### Scales:
-- (Using the Pentatonic Scale in Major Keys)[https://www.youtube.com/watch?v=vzKPU--iCDg]
+- [Using the Pentatonic Scale in Major Keys](https://www.youtube.com/watch?v=vzKPU--iCDg)
 
 <BR>
 <BR>
 <BR>
 ### Blues:
-  - (Beginners Blues)[http://12bar.de/cms/tutorial/beginners-blues/]
+  - [Beginners Blues](http://12bar.de/cms/tutorial/beginners-blues/)
 
 Common 12-bar blues progressions:
 
@@ -25,6 +25,8 @@ Chords:
 ![alt text](https://github.com/rusac/guitar/master/e.gif "Logo Title Text 1")
 <BR>
 ![GitHub Logo](/images/logo.png)
+  
+![](e.gif)
 <BR>
 <BR>
 <BR>
