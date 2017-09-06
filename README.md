@@ -22,7 +22,7 @@ B7 – A7 – E7 – B7
 <BR>
 Chords:
 
-![E Major](https://github.com/rusac/guitar/master/e.gif "Logo Title Text 1")
+![alt text](https://github.com/rusac/guitar/master/e.gif "Logo Title Text 1")
 <BR>
 <BR>
 <BR>
