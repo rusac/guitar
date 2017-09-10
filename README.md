@@ -36,6 +36,9 @@ Chords:
 <BR>
 ### Songs:
 
+[Recommended Songs to Learn (by Reddit users)](https://github.com/axs221/recommended-guitar-songs/blob/master/README.md)
+
+
 Song of the Ancients (Devola) - Nier
 
 https://www.gametabs.net/nier/song-ancients-devola-1
