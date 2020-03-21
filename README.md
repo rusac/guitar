@@ -2,6 +2,8 @@
 
 ### Some Pieces:
 - [Berimbau by Baden Powell (arrangement by Roland Dyens)](https://www.youtube.com/watch?v=3RrcXqOZ20k)
+- [Kaori Muraji : Roland Dyens -Saudade No 3](https://www.youtube.com/watch?v=jx_lqeeA9fI)
+
 
 ### Scales:
 - [Using the Pentatonic Scale in Major Keys](https://www.youtube.com/watch?v=vzKPU--iCDg)
