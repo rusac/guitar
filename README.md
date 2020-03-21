@@ -1,5 +1,8 @@
 # Guitar Resources
 
+### Some Pieces:
+- [Berimbau by Baden Powell (arrangement by Roland Dyens)](https://www.youtube.com/watch?v=3RrcXqOZ20k)
+
 ### Scales:
 - [Using the Pentatonic Scale in Major Keys](https://www.youtube.com/watch?v=vzKPU--iCDg)
 <BR>
