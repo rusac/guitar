@@ -6,6 +6,7 @@
 - [Kaori Muraji : Roland Dyens -Saudade No 3](https://www.youtube.com/watch?v=jx_lqeeA9fI)
 - [Aniello Desiderio plays Rito de los Orishás (Brouwer)](https://www.youtube.com/watch?v=PtLw6d1Ml-s)
 - [Fukuda plays Concerto da Requiem by L.Brouwer](https://www.youtube.com/watch?v=FL1PI8AvTdQ)
+- [Stephen Rak's "Hora" played by Mateusz Kowalski](https://www.youtube.com/watch?v=9RlmjAl6FXc)
 
 
 ### Scales:
